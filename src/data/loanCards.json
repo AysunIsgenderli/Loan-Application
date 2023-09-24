@@ -1,0 +1,59 @@
+[
+  {
+    "loan": "Cash Loan",
+    "profit": "For a better life",
+    "title1": "Amount",
+    "title2": "Term",
+    "title3": "Annual interest rate",
+    "amount": "30 - 50 000 AZN",
+    "term": "6 - 59 months",
+    "rate": "min. 11.7%",
+    "imageUrl": "https://www.yelo.az/site/assets/files/1029/consumer-loan-pic.png",
+    "link": "cash-loan"
+  },
+  {
+    "loan": "Business Loans",
+    "profit": "",
+    "title1": "Amount",
+    "title2": "Annual interest rate",
+    "title3": "Grace period",
+    "amount": "50 000 - 5 000 000 AZN",
+    "term": "AZN - min. 11% / USD min. 3%",
+    "rate": "up to 18 months",
+    "imageUrl": "https://www.yelo.az/site/assets/files/1861/business-loan-pic-1.png",
+    "link": "business-loan"
+  },
+  {
+    "loan": "Online Loan",
+    "profit": "Completely online, without visiting the bank",
+    "title1": "Annual interest rate",
+    "title2": "Amount",
+    "title3": "Commission",
+    "amount": "Starting  from 11.7%",
+    "term": "Up to 50,000 AZN",
+    "rate": "0 - 3.5%",
+    "imageUrl": "https://www.yelo.az/site/assets/files/6724/onlayn_kredit-sayt-fonsuz.png"
+  },
+  {
+    "loan": "Loan secured by real estate",
+    "profit": "Mortgage loan with any real estate on the most favorable terms",
+    "title1": "Amount",
+    "title2": "Term",
+    "title3": "Annual interest rate",
+    "amount": "5 000 - 100 000 AZN",
+    "term": "12 - 54 monhts",
+    "rate": "min.14%",
+    "imageUrl": "https://www.yelo.az/site/assets/files/3570/xx-2.png"
+  },
+  {
+    "loan": "Mortgage",
+    "profit": "For the house of your dreams",
+    "title1": "Amount",
+    "title2": "Term",
+    "title3": "Initial payment",
+    "amount": "Up to 150 000 AZN",
+    "term": "Up to 360 months",
+    "rate": "20%",
+    "imageUrl": "https://www.yelo.az/site/assets/files/3523/daxili-ipoteka-pic.png"
+  }
+]

@@ -1,0 +1,19 @@
+.custom-slider {
+    width: 100%;
+    height: 5px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #ffc628;
+    outline: none;
+    border-radius: 10px;
+  }
+  
+  .custom-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #feb236;
+    cursor: pointer;
+  }
